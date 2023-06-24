@@ -150,7 +150,7 @@ This project defines a fully automated system to monitor the vehicles crossing t
 
 ## 🖥 Frontend and Backend of the App
 
-- [Front-End]([https://github.com/prathi736](https://github.com/prathi736/smart-zebracrosswalks)) 💾
+- [Front-End](https://github.com/prathi736/smart-zebracrosswalks) 💾
 - [Back-End](https://github.com/bansal247/rlvd_api) 🛠️
 
 
