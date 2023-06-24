@@ -23,7 +23,7 @@ This project defines a fully automated system to monitor the vehicles crossing t
 
 ## 🏛 Logo of the App
 
-<div style="text-align:center">
+<div style="text-align: center">
 
 [![Big-App-Icon.png](https://i.postimg.cc/FH9K8WSr/Big-App-Icon.png)](https://postimg.cc/qz50CGQS)
 
@@ -42,7 +42,7 @@ This project defines a fully automated system to monitor the vehicles crossing t
 
 <div id="image-table" style="margin-left: auto;
             margin-right: auto;
-            width: 60%">
+            width: 40%">
     <table>
         <tr>
             <td style="padding:10px">
@@ -150,7 +150,7 @@ This project defines a fully automated system to monitor the vehicles crossing t
 
 ## 🖥 Frontend and Backend of the App
 
-- [Front-End](https://github.com/prathi736) 💾
+- [Front-End]([https://github.com/prathi736](https://github.com/prathi736/smart-zebracrosswalks)) 💾
 - [Back-End](https://github.com/bansal247/rlvd_api) 🛠️
 
 
